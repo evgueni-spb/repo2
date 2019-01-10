@@ -1,1 +1,2 @@
 Line 1 of the second file
+Line 2 created
